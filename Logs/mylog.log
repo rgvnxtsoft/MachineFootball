@@ -1,0 +1,42 @@
+[INFO ] 2025-02-11 15:42:41.978 [main] TestAutomationV1 - url opened
+[INFO ] 2025-02-11 15:42:42.639 [main] TestAutomationV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2025-02-11 15:42:43.756 [main] TestAutomationV1 - Clicked on sign in link
+[INFO ] 2025-02-11 15:42:43.784 [main] TestAutomationV1 - Entered email address
+[INFO ] 2025-02-11 15:42:43.797 [main] TestAutomationV1 - Entered password
+[INFO ] 2025-02-11 15:42:46.210 [main] TestAutomationV1 - Clicked on sign in link..
+[INFO ] 2025-02-11 15:42:46.234 [main] TestAutomationV1 - VerifyLogin - Failed
+[INFO ] 2025-02-11 15:42:46.358 [main] TestAutomationV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2025-02-11 15:45:01.453 [main] TestAutomationV1 - url opened
+[INFO ] 2025-02-11 15:45:02.081 [main] TestAutomationV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2025-02-11 15:45:03.243 [main] TestAutomationV1 - Clicked on sign in link
+[INFO ] 2025-02-11 15:45:03.271 [main] TestAutomationV1 - Entered email address
+[INFO ] 2025-02-11 15:45:03.283 [main] TestAutomationV1 - Entered password
+[INFO ] 2025-02-11 15:45:06.446 [main] TestAutomationV1 - Clicked on sign in link..
+[INFO ] 2025-02-11 15:45:06.477 [main] TestAutomationV1 - VerifyLogin - Failed
+[INFO ] 2025-02-11 15:45:06.599 [main] TestAutomationV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2025-02-11 15:45:12.553 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-11 15:45:17.563 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-11 15:45:22.579 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-11 15:48:01.831 [main] TestAutomationV1 - url opened
+[INFO ] 2025-02-11 15:48:03.392 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-11 15:48:03.393 [main] TestAutomationV1 - Clicked on sign in link
+[INFO ] 2025-02-11 15:48:08.426 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-11 15:48:08.426 [main] TestAutomationV1 - Clicked on sign in link[INFO ] 2025-02-12 14:50:43.951 [main] TestAutomationV1 - url opened
+[INFO ] 2025-02-12 14:50:45.218 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-12 14:50:46.958 [main] TestAutomationV1 - Clicked on sign in link
+[INFO ] 2025-02-12 14:50:47.012 [main] TestAutomationV1 - Email address & username entered in create account section.
+[INFO ] 2025-02-12 14:50:47.262 [main] TestAutomationV1 - SignUp Successfully
+[INFO ] 2025-02-12 14:50:52.293 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-12 14:50:54.117 [main] TestAutomationV1 - Clicked on sign in link
+[INFO ] 2025-02-12 14:50:54.153 [main] TestAutomationV1 - Email address & username entered in create account section.
+[INFO ] 2025-02-12 14:50:54.389 [main] TestAutomationV1 - SignUp Successfully
+[INFO ] 2025-02-12 15:04:36.734 [main] TestAutomationV1 - url opened
+[INFO ] 2025-02-12 15:04:37.952 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-12 15:04:39.363 [main] TestAutomationV1 - Clicked on sign in link
+[INFO ] 2025-02-12 15:04:39.450 [main] TestAutomationV1 - Email address & username entered in create account section.
+[INFO ] 2025-02-12 15:04:39.671 [main] TestAutomationV1 - SignUp Successfully
+[INFO ] 2025-02-12 16:58:08.707 [main] TestAutomationV1 - url opened
+[INFO ] 2025-02-12 16:58:10.132 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-12 16:58:10.741 [main] TestAutomationV1 - Clicked on sign in link
+[INFO ] 2025-02-12 16:58:10.756 [main] TestAutomationV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-02-12 16:58:11.365 [main] TestAutomationV1 - Clicked on sign in link

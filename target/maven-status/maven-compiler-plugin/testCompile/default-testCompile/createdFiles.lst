@@ -1,0 +1,10 @@
+com\testautomation\testcases\LoginAndRegistration.class
+com\testautomation\utilities\ReadExcelFile.class
+com\testautomation\utilities\ExtentListenerClass.class
+com\testautomation\pageobject\myAccountPage.class
+com\testautomation\testcases\BaseClass.class
+com\testautomation\pageobject\HomePage.class
+com\testautomation\utilities\ReadConfig.class
+com\testautomation\pageobject\registeredUserAccount.class
+com\testautomation\pageobject\accountCreationDetails.class
+com\testautomation\pageobject\SignUp.class
